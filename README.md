@@ -1,4 +1,4 @@
-### Oii!! Eu sou a Ana Papa 😀
+### Oii!! Eu sou a Ana Queiroz 😀
 
 - 🔭 Hoje trabalho com NodeJS em aplicações de BFF (Back For Front)
 - 🌱 Atualmente estou estudando Java e NodeJS
