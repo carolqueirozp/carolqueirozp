@@ -1,11 +1,10 @@
 ### Olá! Eu sou a Ana 😀
 #### Seja bem-vindo(a) ao meu Github
 
-- [📚]   Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar
-- [💻]  Sou desenvolvedora Javascript e PHP
-- [🌟]  Trabalho como desenvolvedora na NTT DATA a mais de 5 anos
-- [🤘]   Sou apaixonada por tecnologia, esportes, viagens, animais e cultura pop
-- [🌱]  Atualmente estou focada em aprimorar meus conhecimentos em PHP, sendo assim, pretendo disponibilizar por aqui, vários projetos voltados para essa tecnologia
+- [📚]   Atualmente estou cursando Inteligência Artificial e Ciência de Dados na Uniube (Universidade de Uberaba)
+- [💻]   Sou desenvolvedora Javascript e PHP
+- [🌟]   Trabalho como desenvolvedora na NTT DATA a mais de 6 anos
+- [🤘]   Sou apaixonada por tecnologia, viagens, animais e natureza
    
 <div align="center">
   <a href="https://github.com/carolqueirozp">
